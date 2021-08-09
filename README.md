@@ -1,7 +1,7 @@
 ### Hiya 👋 I'm Justin!
 #### I'm a Full-Stack Developer and Student in Boston, Massachusetts.
 ##### NOW
-- 💡 Working as a Software Engineer at Locol Holdings
+- 💡 Working as a Software Engineer at Locol
 - 📚 Studying at Wentworth Insitute of Technology
 ##### BIO
 - ⚙️ I use daily: `.js`, `.swift`, `.py`, `.java`, `.html`, `.css`

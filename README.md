@@ -2,6 +2,7 @@
 #### I'm a Full-Stack Developer in Boston, Massachusetts.
 ##### NOW
 - 💡 Associate Software Engineer at Corvus Insurance
+- 🎓 Bachelors of Science in Computer Science at Wentworth Institute of Technology 
 ##### BIO
 - ⚙️ I use daily: `.elm`, `.ex`, `.js`, `.swift`, `.py`, `.java`, `.html`, `.css`
 - 📖 I’m currently learning Elm and Elixir
